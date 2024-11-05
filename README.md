@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Lead Fullstack Engineer | Coding Enthusiast</h3>
 
 <p align="center">
-    🚀 Building cool things and exploring the tech universe! Let's dive in. 🌌
+    🚀 Building cool products and exploring new tech frontiers! Let's dive in. 🌌
 </p>
 
 ---
@@ -21,8 +21,8 @@
 ### 🌐 Connect with Me
 <a href="https://linkedin.com/in/princemathur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10236521/prince-mathur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/princemathur_ma1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/princemathur_ma1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="40" /></a>
+<a href="https://scaler.com/academy/profile/7d72c0ded5fc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scaler-academy.png" alt="Scaler Academy" width="30" height="30"/></a>
 ---
 
 ### 💻 My Favorite Tech Stack
@@ -78,4 +78,4 @@
 
 ---
 
-Thanks for visiting! Whether you're here to check out my code, collaborate, or just say hello, you're always welcome. 🌟 Let's build something awesome together!
+Thanks for stopping by! Feel free to browse, fork, or quietly judge my code. If you’re up for a collaboration or want to talk tech (or bad puns), I’m all ears. Let’s create something that works (..most of the time 👀😂). 🚀
