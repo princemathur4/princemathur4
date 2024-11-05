@@ -21,8 +21,8 @@
 ### 🌐 Connect with Me
 <a href="https://linkedin.com/in/princemathur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10236521/prince-mathur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/princemathur_ma1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="35" width="40" /></a>
-<a href="https://scaler.com/academy/profile/7d72c0ded5fc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scaler-academy.png" alt="Scaler Academy" width="30" height="30"/></a>
+<a href="https://www.hackerrank.com/princemathur_ma1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
+<a href="https://scaler.com/academy/profile/7d72c0ded5fc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scaler-academy.png" alt="Scaler Academy" width="40" height="40"/></a>
 ---
 
 ### 💻 My Favorite Tech Stack
@@ -39,7 +39,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/></a>
     <a href="https://developer.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" alt="macOS" width="40" height="40"/></a>
 </p>
 
