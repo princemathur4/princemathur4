@@ -8,13 +8,13 @@
 ---
 
 ### 👀 About Me
-- 🔭 **Current Project:** I'm creating a [Question Answering Bot](https://github.com/princemathur4/question-answering-bot) that helps you find answers in seconds!
+- 🔭 **Current Project:** I'm creating a [Question Answering AI Bot](https://github.com/princemathur4/question-answering-bot) using OpenAI, Pinecone & Langchain - that helps you find answers from PDF documents in seconds!
   
 - 🌱 **Learning Focus:** Deep diving into **System Design** concepts to build better, scalable solutions.
 
-- 👯 **Collaboration Goal:** Looking to team up on [a multiplayer game project for fun](https://github.com/princemathur4/burlesque). If you're into socket dev frontend, let's chat!
+- 👯 **Collaboration Goal:** Looking to team up on [a multiplayer game project for fun](https://github.com/princemathur4/burlesque). If you're into frontend socket development, let's chat!
 
-- 📫 **How to Reach Me:** Drop me a message at [princemathur.mathur4@gmail.com](mailto:princemathur.mathur4@gmail.com). Always happy to connect!
+- 📫 **How to Reach Me:** Drop me a message at [princemathur.mathur4@gmail.com](mailto:princemathur.mathur4@gmail.com)
 
 ---
 
