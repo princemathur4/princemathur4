@@ -78,4 +78,4 @@
 
 ---
 
-Thanks for stopping by! Feel free to browse, fork, or quietly judge my code. If you’re up for a collaboration or want to talk tech (or bad puns), I’m all ears. Let’s create something that works (..most of the time 👀😂). 🚀
+Thanks for stopping by! Feel free to browse, fork, or quietly review my code. If you’re up for a collaboration or want to talk tech (or bad puns), I’m all ears. Let’s create something that works (..most of the time 👀😂). 🚀
