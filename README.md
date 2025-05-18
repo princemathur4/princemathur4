@@ -68,16 +68,15 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
 </p>
 
-#### 🧰 Other Github Account
-
-<a href="https://github.com/prince-mathur"> Scaler Profile </a>
-
 ---
 
 ### 📈 GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=princemathur4&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princemathur4&" alt="GitHub Streak" /></p>
+
+#### Other Github Account
+<a href="https://github.com/prince-mathur"> Scaler Profile </a>
 
 ---
 
