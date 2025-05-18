@@ -23,6 +23,7 @@
 <a href="https://stackoverflow.com/users/10236521/prince-mathur" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princemathur_ma1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a>
 <a href="https://scaler.com/academy/profile/7d72c0ded5fc" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/scaler-academy.png" alt="Scaler Academy" width="35" height="35" /></a>
+<a href="https://github.com/prince-mathur"> Other Github Account (Scaler) </a>
 ---
 
 ### 💻 My Favorite Tech Stack
